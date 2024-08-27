@@ -44,4 +44,6 @@ npm run dev
 
 <h2>How to install/setup the Back-End</h2>
 
+```
 npm run server
+```
